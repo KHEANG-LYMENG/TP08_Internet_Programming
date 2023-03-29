@@ -1,7 +1,7 @@
 # TP8_Internet_Programming
 
 
-## TO run this project 
+## To run this project 
 
 ## Project Setup
 
